@@ -59,3 +59,5 @@ htmlcov/
 
 # Extra
 test_run/
+run_workdir/
+*.log
